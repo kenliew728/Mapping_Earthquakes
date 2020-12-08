@@ -39,9 +39,9 @@ let torontoHoods = "https://raw.githubusercontent.com/kenliew728/Module_13_Mappi
 
 let myStyle = {
     color: "blue",
-    fillColor: "yellow",
+    fillColor: "gold",
     fillOpacity: 0.1,
-    weight: 1
+    weight: 0.5
 }
 
 // Grabbing GeoJSON data.
